@@ -3,6 +3,8 @@
 */
 
 #include <iostream>
+#include "const.h"
+#include "copy.h"
 
 void help() {
 	printf("IcopyarIca\n\n");
